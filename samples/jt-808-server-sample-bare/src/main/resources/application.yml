@@ -3,5 +3,5 @@ server:
 jt808:
   print-component-statistics: true
 logging:
-  level: info
+  level: debug
   level.io.github.hylexus: debug
